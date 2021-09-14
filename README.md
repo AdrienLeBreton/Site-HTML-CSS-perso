@@ -1,5 +1,5 @@
-Template d'un site, HTML5 // CSS3 // Responsive // Design //
+Templates de sites, Compétencees : HTML5 // CSS3 // Responsive // Design //
 
-Le site n'a aucun but lucratif, il représente seulement mes compétences actuelles en intégration.
+Ces sites n'ont aucun but lucratif, ils représentent seulement mes compétences actuelles en intégration.
 
-2 Jours de travail, que du plaisir.
+2 Jours de travail par site, que du plaisir.
